@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for omni-bot-b6osxw on 2026-10-14T12:23:22Z
+# fly.toml app configuration file generated for omni-bot-25cl-g on 2026-10-14T12:53:12Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'omni-bot-b6osxw'
+app = 'omni-bot-25cl-g'
 primary_region = 'ams'
 
 [build]
